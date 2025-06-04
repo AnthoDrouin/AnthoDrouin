@@ -1,9 +1,7 @@
 ### Hi there! 👋 
 
-I'm Anthony Drouin! I am a student at [Laval University](https://www.ulaval.ca/en) in Engineering Physics!
+I'm Anthony Drouin! I am a MASc student at the [Institute for Quantum Computing]([https://www.ulaval.ca/en](https://uwaterloo.ca/institute-for-quantum-computing/) in Electrical and Computer Engineering (Quantum Information) !
 
-- 🎓 I am currently a fourth-year undergraduate student at [Laval University](https://www.ulaval.ca/en) in engineering physics with a specialty in optics & photonics. 
-- ⚛️ I am interested in quantum optics and how this discipline can be used to produce useful quantum devices and to implement quantum communication schemes such as QKD.
-- 📫 How to reach me: andro125@ulaval.ca
+- 📫 How to reach me: anthony.drouin@uwaterloo.ca
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony_Drouin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-drouin-814898212/)
